@@ -42,7 +42,7 @@ Additionally, I implemented a **memory buffer** to help the model maintain **lon
 
 ## 📈 Results: Visual Comparisons
 
-The attached **graphs** compare these metrics across different prompts, showing that the hybrid model—**with its brain-inspired features**—often generates **more diverse and engaging** outputs than the base model.
+The attached **results** file contains graphs that compare these metrics across different prompts, showing that the hybrid model—**with its brain-inspired features**—often generates **more diverse and engaging** outputs than the base model.
 
 
 ---
